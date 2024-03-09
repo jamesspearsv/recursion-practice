@@ -27,4 +27,4 @@ function mergeSort(array) {
 const array = [3, 2, 1, 13, 8, 5, 0, 1];
 
 const sortedArray = mergeSort(array);
-console.log("sorted array: " + sortedArray);
+console.log("Sorted array: " + sortedArray);
